@@ -1,0 +1,19 @@
+{
+  "name": "mylaya",
+  "version": "1.0.0",
+  "description": "玩转layaair",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangxiaohu2014/mylaya.git"
+  },
+  "author": "yangxiaohu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangxiaohu2014/mylaya/issues"
+  },
+  "homepage": "https://github.com/yangxiaohu2014/mylaya#readme"
+}
